@@ -1,2 +1,2 @@
 # best-repo-ever changed
-# line 1 changed
+# new change on line 2
